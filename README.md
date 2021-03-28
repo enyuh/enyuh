@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm EnYu, currently studying at UCI EECS graduate school
-#### 🌱 I’m currently learning python, C/C++, Java.
+#### 🌱The programming languages I use mostly are python, C/C++, Java.
 
 
 [![enyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=enyuh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
